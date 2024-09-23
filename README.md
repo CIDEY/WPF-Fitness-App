@@ -25,7 +25,7 @@
 ### Repository cloning
 
 ```bash
-git clone https://github.com/your-username/WPF-Fitness-App.git
+git clone https://github.com/CIDEY/WPF-Fitness-App.git
 cd WPF-Fitness-App
 ```
 
