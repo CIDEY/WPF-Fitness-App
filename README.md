@@ -6,7 +6,7 @@
 
 **WPF-Fitness-App** — is a powerful fitness club management application developed using WPF and database. It allows you to efficiently manage clients, trainers and workouts, as well as generate detailed reports on attendance and activities.
 
-## Основные функции
+## Main functions
 
 - **Customer Management**: add, edit and delete customer information.
 - **Manage Coaches**: add, edit, and delete coach information.
