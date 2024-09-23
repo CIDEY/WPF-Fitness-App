@@ -27,6 +27,7 @@
 ```bash
 git clone https://github.com/your-username/WPF-Fitness-App.git
 cd WPF-Fitness-App
+```bash
 
 ### Database customization
 
