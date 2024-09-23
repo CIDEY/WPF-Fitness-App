@@ -1,6 +1,6 @@
 # WPF-Fitness-App
 
-![WPF-Fitness-App Logo](https://e7.pngegg.com/pngimages/875/386/png-clipart-running-computer-icons-stickman-running-s-angle-physical-fitness.png)
+![WPF-Fitness-App Logo](https://brandslogos.com/wp-content/uploads/images/large/sports-logo.png)
 
 ## Description
 
